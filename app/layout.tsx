@@ -14,15 +14,15 @@ const kaisei = localFont({
 
 export const metadata: Metadata = {
   title: {
-    default: 'Lee Robinson',
-    template: '%s | Lee Robinson',
+    default: 'Joshua Voydik',
+    template: '%s | Joshua Voydik',
   },
   description: 'Developer, writer, and creator.',
   openGraph: {
     title: 'Lee Robinson',
     description: 'Developer, writer, and creator.',
-    url: 'https://leerob.io',
-    siteName: 'Lee Robinson',
+    url: 'https://voydik.com',
+    siteName: 'Joshua Voydik',
     images: [
       {
         url: 'https://leerob.io/og.jpg',
